@@ -1,5 +1,7 @@
 # GoZero
 
+###### __*[English](https://berkantkz.github.io/GoZero/)*__
+
 "wikipedia.org" adresini "0wikipedia.org"'a otomatik olarak yönlendiren bir Chromium eklentisi.
 
 Bu eklentiyi ülkerinde Wikipedia engellenmiş olan insanlar için geliştirdim. Aslında, Wikipedia benim ülkemde yasaklanmamış olsaydı, böylesine bir eklentiye ihtiyacım olmazdı. (Türkiye 🇹🇷)

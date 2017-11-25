@@ -1,5 +1,7 @@
 ﻿# GoZero
 
+###### __*[Türkçe](https://berkantkz.github.io/GoZero/tr)*__
+
 A Chromium extension which automatically redirects "wikipedia.org" URLs/URIs to "0wikipedia.org"
 
 I've developed this extension for the people in whose countries Wikipedia is blocked. In fact, I wouldn't need such an extension if Wikipedia wasn't blocked in my country. (Turkey 🇹🇷)
