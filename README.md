@@ -27,7 +27,7 @@ This project is an open-source. You can use it as how you wish in the conditions
 
 [See license here](https://github.com/berkantkz/GoZero/blob/master/LICENSE)
 
-If you find any issue/bug, please report it throught [issues](https://github.com/berkantkz/GoZero/issues) or by messaging me on any platform.
+If you find any issue/bug, please report it through [issues](https://github.com/berkantkz/GoZero/issues) or by messaging me on any platform.
 
 The platforms I'm using available on my own web page.
 
