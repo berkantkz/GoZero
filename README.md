@@ -1,4 +1,4 @@
-# GoZero
+﻿# GoZero
 
 A Chromium extension which automatically redirects "wikipedia.org" URLs/URIs to "0wikipedia.org"
 
@@ -11,7 +11,7 @@ I've developed this extension for the people in whose countries Wikipedia is blo
 
 ### Insallation instructions
 
-* Simply fork [this](https://github.com/berkantkz/GoZero) repository 
+* Simply clone [this](https://github.com/berkantkz/GoZero) repository 
 > https://github.com/berkantkz/GoZero.git
 * Or download GoZero from [here](https://github.com/berkantkz/GoZero/archive/master.zip) [*]
 * [*] Unzip the file you've downloaded into a folder
@@ -19,7 +19,7 @@ I've developed this extension for the people in whose countries Wikipedia is blo
 * Click on ```Install unpacked extension``` and select the root directory of where you cloned or downloaded GoZero.
 * That's all you need to do. Now you can freely visit Wikipedia!
 
-(If you still cannot do these, watch video here: https://youtu.be/atAUnwNLzGk)
+(If you still cannot do these, watch video here: [https://youtu.be/atAUnwNLzGk](https://youtu.be/atAUnwNLzGk))
 
 ---
 This project is an open-source. You can use it as how you wish in the conditions of ```GNU Affero General Public License v3.0```.
