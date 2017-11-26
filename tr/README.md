@@ -13,7 +13,7 @@ Bu eklentiyi ülkerinde Wikipedia engellenmiş olan insanlar için geliştirdim.
 ### Kurulum yönergeleri
 
 * GoZero'yu [buradan](https://github.com/berkantkz/GoZero/archive/master.zip) indirin [*]
-> https://github.com/berkantkz/GoZero/releases/download/1.0/GoZero.zip
+> [https://github.com/berkantkz/GoZero/releases/download/1.0/GoZero.zip](https://github.com/berkantkz/GoZero/releases/download/1.0/GoZero.zip)
 * İndirdiğiniz zip dosyasını bir klasöre çıkartın
 * ``` chrome://extensions ``` adresine gidin, sayfanın en üstünden geliştirici modunu etkinleştirin
 * ```Paketi açılmış uzantı yükle``'ye basın ve dosyayı zipten çıkarttığız klasörü seçin
