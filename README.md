@@ -13,12 +13,11 @@ I've developed this extension for the people in whose countries Wikipedia is blo
 
 ### Insallation instructions
 
-* Simply clone [this](https://github.com/berkantkz/GoZero) repository 
-> https://github.com/berkantkz/GoZero.git
-* Or download GoZero from [here](https://github.com/berkantkz/GoZero/archive/master.zip) [*]
+* Simply download GoZero from [here](https://github.com/berkantkz/GoZero/releases/download/1.0/GoZero.zip) [*]
+> https://github.com/berkantkz/GoZero/releases/download/1.0/GoZero.zip
 * [*] Unzip the file you've downloaded into a folder
 * Navigate to ``` chrome://extensions ```, enable developer mode at the top of the page
-* Click on ```Install unpacked extension``` and select the root directory of where you cloned or downloaded GoZero.
+* Click on ```Install unpacked extension``` and select the root directory of where extracted GoZero.
 * That's all you need to do. Now you can freely visit Wikipedia!
 
 (If you still cannot do these, watch video here: [https://youtu.be/atAUnwNLzGk](https://youtu.be/atAUnwNLzGk))

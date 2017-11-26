@@ -12,12 +12,11 @@ Bu eklentiyi ülkerinde Wikipedia engellenmiş olan insanlar için geliştirdim.
 
 ### Kurulum yönergeleri
 
-* [Bu](https://github.com/berkantkz/GoZero) depoyu (repository) basitçe kopyalayın/klonlayın
-> https://github.com/berkantkz/GoZero.git
-* Ya da GoZero'yu [buradan](https://github.com/berkantkz/GoZero/archive/master.zip) indirin [*]
-* [*] İndirdiğiniz zip dosyasını bir klasöre çıkartın
+* GoZero'yu [buradan](https://github.com/berkantkz/GoZero/archive/master.zip) indirin [*]
+> https://github.com/berkantkz/GoZero/releases/download/1.0/GoZero.zip
+* İndirdiğiniz zip dosyasını bir klasöre çıkartın
 * ``` chrome://extensions ``` adresine gidin, sayfanın en üstünden geliştirici modunu etkinleştirin
-* ```Paketi açılmış uzantı yükle```ye basın ve dosyayı zipten çıkarttığız ya da kopyaladığınız/klonladığınız yeri seçin
+* ```Paketi açılmış uzantı yükle``'ye basın ve dosyayı zipten çıkarttığız klasörü seçin
 * Tüm yapmanız gereken bu. Artık özgürce Wikipedia'yı ziyaret edebilirsiniz!
 
 (Eğer hâlâ yukarıdaki adımları uygulamakta güçlük çekiyorsanız, yönergeleri izleyin: [https://youtu.be/atAUnwNLzGk](https://youtu.be/atAUnwNLzGk))
