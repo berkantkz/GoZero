@@ -1,33 +1,45 @@
-# GoZero
+# GoZero 
 
-###### __*[English](https://berkantkz.github.io/GoZero/)*__
+<a style="float: right; font-size:14px; padding: 10px" href="https://berkantkz.github.io/GoZero/">English</a>
+<br>
 
-"wikipedia.org" adresini "0wikipedia.org"'a otomatik olarak yönlendiren bir Chromium eklentisi.
+<img style="float: left; padding: 0px 20px 0 20px" src="https://github.com/berkantkz/GoZero/raw/master/gozero.png">
+"wikipedia.org" adresini "0wikipedia.org"'a kendiliğinden yönlendiren bir Chromium eklentisi.
 
-Bu eklentiyi ülkerinde Wikipedia engellenmiş olan insanlar için geliştirdim. Aslında, Wikipedia benim ülkemde yasaklanmamış olsaydı, böylesine bir eklentiye ihtiyacım olmazdı. (Türkiye 🇹🇷)
+Bu eklentiyi ülkerinde Wikipedia engellenmiş olan insanlar için geliştirdim. Aslında, Wikipedia benim ülkemde yasaklanmamış olsaydı, böylesine bir eklentiye ihtiyacım olmazdı. (_Türkiye_ 🇹🇷)
 
+<br>
+<br>
 ## Kullanım
 
->GoZero'nun sadece kurulu olması yeterli. O, sizi otomatik olarak Wiki Zero'ya yönlendirir.
+**GoZero**'nun yalnızca kurulu olması yeterli. O, sizi kendiliğinden Wiki Zero'ya yönlendirir.
 
-### Kurulum yönergeleri
+> Tested with Chrome 62.0.3202.94 Official x64 and Opera 49
+
+<br>
+## Kurulum yönergeleri
 
 * GoZero'yu [buradan](https://github.com/berkantkz/GoZero/archive/master.zip) indirin [*]
 > [https://github.com/berkantkz/GoZero/releases/download/1.0/GoZero.zip](https://github.com/berkantkz/GoZero/releases/download/1.0/GoZero.zip)
-* İndirdiğiniz zip dosyasını bir klasöre çıkartın
-* ``` chrome://extensions ``` adresine gidin, sayfanın en üstünden geliştirici modunu etkinleştirin
-* ```Paketi açılmış uzantı yükle``'ye basın ve dosyayı zipten çıkarttığız klasörü seçin
-* Tüm yapmanız gereken bu. Artık özgürce Wikipedia'yı ziyaret edebilirsiniz!
+* İndirdiğiniz sıkıştırılmış klasörü başka bir klasöre çıkartın
+* ``` chrome://extensions ``` adresine gidin, sayfanın en yukarısından geliştirici modunu etkinleştirin
+* ```Paketi açılmış uzantı yükle```'ye basın, sıkıştırılmış klasörden çıkarttığız klasörü seçin
+* Tüm yapmanız gereken bu. Artık özgürce Wikipedia'ya giriş yapabilirsiniz!
 
-(Eğer hâlâ yukarıdaki adımları uygulamakta güçlük çekiyorsanız, yönergeleri izleyin: [https://youtu.be/atAUnwNLzGk](https://youtu.be/atAUnwNLzGk))
+#### İzleti:
 
----
-Bu proje açık kaynak bir projedir. ```GNU Affero General Public License v3.0``` lisansının koşullarına uyduğunuz takdirde istediğiniz gibi kullanabilirsiniz.
+<iframe width="444" height="250"
+src="https://youtube.com/embed/atAUnwNLzGk?controls=1"></iframe>
 
-[Lisansı burada görebilirsiniz. (İngilizce)](https://github.com/berkantkz/GoZero/blob/master/LICENSE)
+<br>
+## Eklenmesi Düşünülen Özellikler
+* Yeni sekme desteği.
 
-Eğer herhangi bir sorun/hata bulursanız, lütfen [GitHub Issues](https://github.com/berkantkz/GoZero/issues) aracılığıyla ya da bana herhangi bir platformdan mesaj atarak bildirin.
+<br>
+## Yasal
+Bu proje açık kaynak bir projedir. [```GNU Affero General Public License v3.0```](https://github.com/berkantkz/GoZero/blob/master/LICENSE) lisansının koşullarına uyduğunuz takdirde istediğiniz gibi kullanabilirsiniz.	
 
-Kullandığım platformlar kendi web sayfamda bulunabilir.
+Eğer herhangi bir sorun/hata bulursanız, lütfen [GitHub Issues](https://github.com/berkantkz/GoZero/issues) aracılığıyla bildirin.
 
-[berkantkz](https://berkantkz.github.io)
+<br>
+[berkantkz](https://berkantkz.github.io/)
